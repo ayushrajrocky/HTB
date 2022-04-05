@@ -10,7 +10,7 @@ There is a smb running
 
 and there is a exploit available and also in msfconsole
 
-![Screenshot from 2022-03-04 12-12-40.png](../_resources/Screenshot from 2022-03-04 12-12-40.png)
+![Screenshot from 2022-03-04 12-12-40.png](https://github.com/ayushrajrocky/HTB/raw/main/72cc026d34f04e179c0c5d2bec607d41.png)
 
 ## Updatedb
 
