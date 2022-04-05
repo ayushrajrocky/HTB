@@ -6,11 +6,11 @@ here @port 21 FTP is Open and the version of the ftp server running there is vsf
 
 There is a smb running
 
-![Screenshot from 2022-03-04 12-11-32.png](https://github.com/ayushrajrocky/HTB/raw/main/af091f3760334f81be71f2cba635c7b4.png)
+![Screenshot from 2022-03-04 12-11-32.png](https://github.com/ayushrajrocky/HTB/raw/main/72cc026d34f04e179c0c5d2bec607d41.png)
 
 and there is a exploit available and also in msfconsole
 
-![Screenshot from 2022-03-04 12-12-40.png](https://github.com/ayushrajrocky/HTB/raw/main/72cc026d34f04e179c0c5d2bec607d41.png)
+![Screenshot from 2022-03-04 12-12-40.png](https://github.com/ayushrajrocky/HTB/raw/main/af091f3760334f81be71f2cba635c7b4.png)
 
 ## Updatedb
 
