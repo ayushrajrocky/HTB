@@ -1,6 +1,6 @@
 Here we starts Scanning Via Nmap
 
-<img src="../_resources/Screenshot from 2022-03-04 11-59-19.png" alt="Screenshot from 2022-03-04 11-59-19.png" width="815" height="511">
+![Screenshot from 2022-03-04 12-11-32.png](https://github.com/ayushrajrocky/HTB/raw/main/a4b14a2180354602aaeb584352b50166.png)
 
 here @port 21 FTP is Open and the version of the ftp server running there is vsftpd 2.3.4
 
