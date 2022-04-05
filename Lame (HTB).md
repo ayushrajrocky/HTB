@@ -14,7 +14,7 @@ and there is a exploit available and also in msfconsole
 
 ## Updatedb
 
-![Screenshot from 2022-03-04 12-14-59.png](../_resources/Screenshot from 2022-03-04 12-14-59.png)
+![Screenshot from 2022-03-04 12-14-59.png](https://github.com/ayushrajrocky/HTB/raw/main/2cc00279b2494084b4f272d48d2dd8d7.png)
 
 ## Now we will perform post exploitation 
 
